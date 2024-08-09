@@ -5,3 +5,4 @@ Step 3: Type of Resturant introduced
         *The majority of restaurants received rating.
         * The majority of restaurant received rating from 3.5 to 4.
         * Whether online order receive higher rating than offline order.
+        
